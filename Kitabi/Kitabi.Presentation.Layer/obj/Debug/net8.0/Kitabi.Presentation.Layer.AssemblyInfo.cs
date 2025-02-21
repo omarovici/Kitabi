@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kitabi.Presentation.Layer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d070791ff908a5d3030a6d90870c71b5ef5b5236")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9167f960ef166b659523fb0c5839b0e4f566cd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kitabi.Presentation.Layer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kitabi.Presentation.Layer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

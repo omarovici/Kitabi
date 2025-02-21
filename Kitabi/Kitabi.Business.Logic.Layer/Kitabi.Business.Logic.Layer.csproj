@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Kitabi.Data.Access.Layer\Kitabi.Data.Access.Layer.csproj" />
+    </ItemGroup>
+
 </Project>

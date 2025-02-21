@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Kitabi.Business.Logic.Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Kitabi.Data.Access.Layer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kitabi.Business.Logic.Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kitabi.Business.Logic.Layer.dll": {}
+        }
+      },
+      "Kitabi.Data.Access.Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Kitabi.Data.Access.Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kitabi.Data.Access.Layer.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Kitabi.Business.Logic.Layer/1.0.0": {
+      "type": "project",
+      "path": "../Kitabi.Business.Logic.Layer/Kitabi.Business.Logic.Layer.csproj",
+      "msbuildProject": "../Kitabi.Business.Logic.Layer/Kitabi.Business.Logic.Layer.csproj"
+    },
+    "Kitabi.Data.Access.Layer/1.0.0": {
+      "type": "project",
+      "path": "../Kitabi.Data.Access.Layer/Kitabi.Data.Access.Layer.csproj",
+      "msbuildProject": "../Kitabi.Data.Access.Layer/Kitabi.Data.Access.Layer.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Kitabi.Business.Logic.Layer >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/macbook/.nuget/packages/": {}
@@ -31,7 +68,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/macbook/Documents/Project/Kitabi/Kitabi/Kitabi.Business.Logic.Layer/Kitabi.Business.Logic.Layer.csproj": {
+              "projectPath": "/Users/macbook/Documents/Project/Kitabi/Kitabi/Kitabi.Business.Logic.Layer/Kitabi.Business.Logic.Layer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

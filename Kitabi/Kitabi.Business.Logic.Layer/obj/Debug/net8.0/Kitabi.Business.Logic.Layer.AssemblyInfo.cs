@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kitabi.Business.Logic.Layer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd1559385d82608a77bacace6063d1e8ceccf88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9167f960ef166b659523fb0c5839b0e4f566cd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kitabi.Business.Logic.Layer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kitabi.Business.Logic.Layer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
