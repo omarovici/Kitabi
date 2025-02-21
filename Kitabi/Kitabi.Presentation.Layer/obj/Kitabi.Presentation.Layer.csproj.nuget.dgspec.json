@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Documents/Kitabi/Kitabi.Presentation.Layer/Kitabi.Presentation.Layer.csproj": {}
+    "/Users/macbook/Documents/Project/Kitabi/Kitabi/Kitabi.Presentation.Layer/Kitabi.Presentation.Layer.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Documents/Kitabi/Kitabi.Presentation.Layer/Kitabi.Presentation.Layer.csproj": {
+    "/Users/macbook/Documents/Project/Kitabi/Kitabi/Kitabi.Presentation.Layer/Kitabi.Presentation.Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Documents/Kitabi/Kitabi.Presentation.Layer/Kitabi.Presentation.Layer.csproj",
+        "projectUniqueName": "/Users/macbook/Documents/Project/Kitabi/Kitabi/Kitabi.Presentation.Layer/Kitabi.Presentation.Layer.csproj",
         "projectName": "Kitabi.Presentation.Layer",
-        "projectPath": "/Users/macbook/Documents/Kitabi/Kitabi.Presentation.Layer/Kitabi.Presentation.Layer.csproj",
+        "projectPath": "/Users/macbook/Documents/Project/Kitabi/Kitabi/Kitabi.Presentation.Layer/Kitabi.Presentation.Layer.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Documents/Kitabi/Kitabi.Presentation.Layer/obj/",
+        "outputPath": "/Users/macbook/Documents/Project/Kitabi/Kitabi/Kitabi.Presentation.Layer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
